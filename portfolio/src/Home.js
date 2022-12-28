@@ -80,17 +80,6 @@ function Home() {
                     Achievements
                   </a>
                 </li>
-
-                <li className="sideNavbar">
-                  <a className="sideNavbarLinks" href="#Blog">
-                    Upcoming
-                  </a>
-                </li>
-                <li className="sideNavbar">
-                  <a className="sideNavbarLinks" href="#Contact">
-                    Contact
-                  </a>
-                </li>
               </ul>
             </div>
           ) : null}
