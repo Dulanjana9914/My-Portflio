@@ -1,4 +1,4 @@
-# My-Portflio
+# My-Portfolio
 Personal profile website created using React JS
 
 In the project directory, you can run:
