@@ -112,7 +112,7 @@ const About = () => {
               <br />
 
               <div className="about__button d__flex align__items__center">
-                <a href="https://drive.google.com/file/d/1YZSi0Sc1m5Ml0gA3FINPKxpEv2BVdlb2/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/1SZVBTM6JJzcGgkN63E9iKdFw1ad_3utI/view?usp=sharing">
                   <button className="about btn pointer">Download CV</button>
                 </a>
                 <a href="https://medium.com/@it20265892">
