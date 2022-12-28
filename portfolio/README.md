@@ -1,2 +1,2 @@
 # My-Portflio
-Personal profile website created using MERN stack
+Personal profile website created using React JS
