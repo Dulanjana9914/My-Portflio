@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/My-Portflio/static/css/main.51a07e19.chunk.css",
+    "main.js": "/My-Portflio/static/js/main.e39d8a4b.chunk.js",
+    "main.js.map": "/My-Portflio/static/js/main.e39d8a4b.chunk.js.map",
+    "runtime-main.js": "/My-Portflio/static/js/runtime-main.1a535b23.js",
+    "runtime-main.js.map": "/My-Portflio/static/js/runtime-main.1a535b23.js.map",
+    "static/js/2.42d0c3fc.chunk.js": "/My-Portflio/static/js/2.42d0c3fc.chunk.js",
+    "static/js/2.42d0c3fc.chunk.js.map": "/My-Portflio/static/js/2.42d0c3fc.chunk.js.map",
+    "index.html": "/My-Portflio/index.html",
+    "static/css/main.51a07e19.chunk.css.map": "/My-Portflio/static/css/main.51a07e19.chunk.css.map",
+    "static/js/2.42d0c3fc.chunk.js.LICENSE.txt": "/My-Portflio/static/js/2.42d0c3fc.chunk.js.LICENSE.txt",
+    "static/media/cet1.dd976150.jpg": "/My-Portflio/static/media/cet1.dd976150.jpg",
+    "static/media/Home.css": "/My-Portflio/static/media/cover2.c412a0b3.jpg",
+    "static/media/project7.5f2856f0.jpg": "/My-Portflio/static/media/project7.5f2856f0.jpg",
+    "static/media/waste.2bdb4eca.jpg": "/My-Portflio/static/media/waste.2bdb4eca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a535b23.js",
+    "static/js/2.42d0c3fc.chunk.js",
+    "static/css/main.51a07e19.chunk.css",
+    "static/js/main.e39d8a4b.chunk.js"
+  ]
+}
